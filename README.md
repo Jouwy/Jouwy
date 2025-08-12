@@ -1,4 +1,4 @@
- ## Hi, I'm Jouwy ✨ <br>
+ ## Hi, I'm Jouwy ✨
  
 
 🎓 CS senior at [SUSTech](https://www.sustech.edu.cn/en/)<br>
@@ -21,5 +21,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 📬 Contact Me
-Feel free to get in touch!
-✉️ Email: 12211456@mail.sustech.edu.cn
+Feel free to get in touch!<br>
+✉️ Email: 12211456@mail.sustech.edu.cn<br>
