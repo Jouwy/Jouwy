@@ -1,7 +1,7 @@
  ## Hi, I'm Jouwy ✨ <br>
  
 
-🎓 CS senior at [SUSTech([https://example.com](https://www.sustech.edu.cn/en/))]<br>
+🎓 CS senior at [SUSTech]([https://example.com](https://www.sustech.edu.cn/en/))<br>
 🤖 Currently working on autonomous driving technologies<br>
 💡 Passionate about AI, data-driven solutions, and innovative tech<br>
 
