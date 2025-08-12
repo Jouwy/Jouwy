@@ -1,9 +1,9 @@
- ## Hi, I'm Jouwy ✨ 
+ ## Hi, I'm Jouwy ✨ <br>
  
 
-🎓 CS senior at [SUSTech([https://example.com](https://www.sustech.edu.cn/en/))
-🤖 Currently working on autonomous driving technologies
-💡 Passionate about AI, data-driven solutions, and innovative tech
+🎓 CS senior at [SUSTech([https://example.com](https://www.sustech.edu.cn/en/))]<br>
+🤖 Currently working on autonomous driving technologies<br>
+💡 Passionate about AI, data-driven solutions, and innovative tech<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaouhara-zerhouni-khal-b720a2357) 
