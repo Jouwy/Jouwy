@@ -4,7 +4,7 @@
 🤖 Currently working on autonomous driving technologies<br>
 💡 Passionate about AI, data-driven solutions, and innovative tech<br>
 
-[![](https://visitcount.itsvg.in/api?id=Jouwy&icon=7&color=10)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=Jouwy&icon=7&color=10)](https://visitcount.itsvg.in) -->
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaouhara-zerhouni-khal-b720a2357) 
