@@ -1,6 +1,6 @@
  ## Hi, I'm Jouwy ✨
  
-🎓 CS Master's @ [SJTU](https://en.sjtu.edu.cn/) | B.S. SUSTech CS '26 [SUSTech](https://www.sustech.edu.cn/en/)<br>
+🎓 CS Master's @ [SJTU](https://en.sjtu.edu.cn/) | B.E. SUSTech CS '26 [SUSTech](https://www.sustech.edu.cn/en/)<br>
 🤖 Work in progress<br>
 💡 Passionate about AI, data-driven solutions, and innovative tech<br>
 
