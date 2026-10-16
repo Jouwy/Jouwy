@@ -23,4 +23,4 @@
 
 ## 📬 Contact Me
 Feel free to get in touch!<br>
-✉️ Email: z.jaouhara@sjtu.edu.cn<br>
+✉️ Email: j.zerhouni@sjtu.edu.cn<br>
