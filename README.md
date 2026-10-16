@@ -1,7 +1,8 @@
  ## Hi, I'm Jouwy ✨
  
-🎓 CS senior at [SUSTech](https://www.sustech.edu.cn/en/)<br>
-🤖 Currently working on autonomous driving technologies<br>
+🎓 CS Master's @ [SJTU](https://en.sjtu.edu.cn/) | B.S. SUSTech CS '26 [SUSTech](https://www.sustech.edu.cn/en/)<br>
+<!--🤖 Currently working on autonomous driving technologies<br>-->
+🤖 Work in progress<br>
 💡 Passionate about AI, data-driven solutions, and innovative tech<br>
 
 <!--[![](https://visitcount.itsvg.in/api?id=Jouwy&icon=7&color=10)](https://visitcount.itsvg.in) -->
