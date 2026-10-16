@@ -1,7 +1,6 @@
  ## Hi, I'm Jouwy ✨
  
 🎓 CS Master's @ [SJTU](https://en.sjtu.edu.cn/) | B.S. SUSTech CS '26 [SUSTech](https://www.sustech.edu.cn/en/)<br>
-<!--🤖 Currently working on autonomous driving technologies<br>-->
 🤖 Work in progress<br>
 💡 Passionate about AI, data-driven solutions, and innovative tech<br>
 
@@ -24,4 +23,4 @@
 
 ## 📬 Contact Me
 Feel free to get in touch!<br>
-✉️ Email: 12211456@mail.sustech.edu.cn<br>
+✉️ Email: z.jaouhara@sjtu.edu.cn<br>
